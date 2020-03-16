@@ -136,6 +136,6 @@ int main(void){
 		7, 6, 5, 4, 3, 2, 0, 31 };
 	sort(data, 0, DATA_SIZE - 1);
 	printVector(data, 0);
-	getchar();
+	(void)getchar();
 	return EXIT_SUCCESS;
 }
