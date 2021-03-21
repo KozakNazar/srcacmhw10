@@ -1,6 +1,6 @@
 /***********************************************
 * N.Kozak // Lviv'2020 // ACM // Sort examples *
-*    file: acmhw9.c                            *
+*    file: acmhw10.c                           *
 ************************************************/
 #include <stdio.h>
 #include <stdlib.h>
